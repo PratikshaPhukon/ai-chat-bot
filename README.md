@@ -24,8 +24,8 @@ A role-based AI-powered assistant prototype, built with:
 **2. Create virtual environment**
 
 >>python -m venv venv
->>\n
->>source venv/bin/activate  # or venv\Scripts\activate on Windows
+
+>>    source venv/bin/activate  # or venv\Scripts\activate on Windows
 
 
 **3. Install dependencies**
