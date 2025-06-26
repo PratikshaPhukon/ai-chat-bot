@@ -1,4 +1,4 @@
-# 🤖 AI Chat Agent for Calibr LMS
+# 🤖 AI Chat Agent
 
 A role-based AI-powered assistant prototype, built with:
 
