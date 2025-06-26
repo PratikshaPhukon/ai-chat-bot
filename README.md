@@ -48,3 +48,30 @@ Install from https://ollama.com
 >>streamlit run app.py
 
 
+**📂 Files**
+
+ai-chat-agent/
+├── app.py
+├── setup_vectorstore.py
+├── requirements.txt
+├── data/
+│   ├── lessons.json
+│   ├── users.csv
+│   └── completions.csv
+└── faiss_index/
+
+
+
+**📷 Screenshots**
+
+![image](https://github.com/user-attachments/assets/e43e3ad7-3214-409b-b130-d6f16e40bdc5)
+![image](https://github.com/user-attachments/assets/ea4e4232-7c59-4983-9e48-358c2686a459)
+![image](https://github.com/user-attachments/assets/65924edb-4248-4a01-8f86-f39c7d1a8460)
+
+
+
+
+
+
+
+
