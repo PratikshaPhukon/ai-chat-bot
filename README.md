@@ -1,4 +1,4 @@
-# 🤖 AI Chat Agent
+# 🤖 AI Chat Bot
 
 A role-based AI-powered assistant prototype, built with:
 
@@ -17,7 +17,7 @@ A role-based AI-powered assistant prototype, built with:
 
 **1. Clone this repo**
 
-   git clone https://github.com/pratikxaphukon/ai-chat-agent.git
+   git clone https://github.com/pratikxaphukon/ai-chat-bot.git
    
   >>cd ai-chat-agent
    
