@@ -3,9 +3,8 @@ __pycache__/
 *.pyc
 venv/
 
-
-# Environment files
+# Environment variable files
 .env
 
-# 
+# Service account / secrets
 service.json
