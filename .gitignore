@@ -1,10 +1,8 @@
-# Python
-__pycache__/
-*.pyc
+# Virtual environment
 venv/
 
-# Environment variable files
+# Environment variables
 .env
 
-# Service account / secrets
+# Service account key
 service.json
